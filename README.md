@@ -1,5 +1,4 @@
 - 👋 Hi, I’m @ald1k0n
-- 👀 I’m interested in computer games and if I didn't add something, I am playing CS:GO
 - 🌱 I’m currently learning React JS
 - 📫 How to reach me: Text me to my mail: cjube1337@gmail.com
 
